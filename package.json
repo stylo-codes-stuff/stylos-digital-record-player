@@ -17,6 +17,8 @@
     "@angular/cli": "^17.0.10",
     "@angular/common": "^17.0.9",
     "@angular/core": "^17.0.9",
-    "ng": "^0.0.0"
+    "howler": "^2.2.4",
+    "ng": "^0.0.0",
+    "pizzicato": "^0.6.4"
   }
 }

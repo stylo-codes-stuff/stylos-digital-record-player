@@ -1733,6 +1733,11 @@ hosted-git-info@^7.0.0:
   dependencies:
     lru-cache "^10.0.1"
 
+howler@^2.2.4:
+  version "2.2.4"
+  resolved "https://registry.yarnpkg.com/howler/-/howler-2.2.4.tgz#bd3df4a4f68a0118a51e4bd84a2bfc2e93e6e5a1"
+  integrity sha512-iARIBPgcQrwtEr+tALF+rapJ8qSc+Set2GJQl7xT1MQzWaVkFebdJhR3alVlSiUf5U7nAANKuj3aWpwerocD5w==
+
 htmlnano@^2.0.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/htmlnano/-/htmlnano-2.1.0.tgz#67b31b3cd3fad23f0b610ca628fdb48382209c3c"
@@ -2539,6 +2544,11 @@ picomatch@^2.3.1:
   version "2.3.1"
   resolved "https://registry.yarnpkg.com/picomatch/-/picomatch-2.3.1.tgz#3ba3833733646d9d3e4995946c1365a67fb07a42"
   integrity sha512-JU3teHTNjmE2VCGFzuY8EXzCDVwEqB2a8fsIvwaStHhAWJEeVd1o1QD80CU6+ZdEXXSLbSsuLwJjkCBWqRQUVA==
+
+pizzicato@^0.6.4:
+  version "0.6.4"
+  resolved "https://registry.yarnpkg.com/pizzicato/-/pizzicato-0.6.4.tgz#a386ec79e4e615cf8e7e125959a3cb7d1da9e607"
+  integrity sha512-1Y4UGnhdBvCoeRTt4Cor/zPRsH/pEAGsBESy0zeR8mH2i2piJRQLEEctkzUJGo6h64GiepZy+LFaJ/a3riR+WA==
 
 postcss-value-parser@^4.2.0:
   version "4.2.0"
