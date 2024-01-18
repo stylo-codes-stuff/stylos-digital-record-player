@@ -1,0 +1,24 @@
+body{
+    position:absolute;
+    width:780px;
+    height:650px;
+    left:50%;
+    top:50%;
+    margin-left:-300px;
+    margin-top:-300px;
+}
+
+nav{
+  height:200px; 
+  width:100%;
+  overflow:hidden; 
+  overflow-y:scroll;
+}
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
+}
