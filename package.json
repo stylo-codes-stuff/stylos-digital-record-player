@@ -19,6 +19,7 @@
     "@angular/core": "^17.0.9",
     "howler": "^2.2.4",
     "ng": "^0.0.0",
-    "pizzicato": "^0.6.4"
+    "pizzicato": "^0.6.4",
+    "tone": "^14.7.77"
   }
 }
