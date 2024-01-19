@@ -12,6 +12,7 @@
   "license": "MIT",
   "private": false,
   "scripts": {
+    "reset": "rmdir .parcel-cache",
     "dev": "yarn parcel src/index.html"
   },
   "dependencies": {
